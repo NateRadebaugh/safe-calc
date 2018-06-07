@@ -5,8 +5,8 @@ module.exports = {
   entry: "./src/index.js",
   output: {
     path: path.resolve(__dirname, "dist"),
-    filename: "safe-math.js",
-    library: "safeMath",
+    filename: "safe-calc.js",
+    library: "safeCalc",
     libraryTarget: "umd"
   },
   plugins: [new CleanWebpackPlugin(["dist"])]

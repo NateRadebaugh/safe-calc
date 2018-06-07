@@ -1,2 +1,2 @@
-# safe-math
-safe math operators to avoid NaN
+# safe-calc
+safe calc operators to avoid NaN

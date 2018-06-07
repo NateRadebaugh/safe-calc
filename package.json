@@ -1,8 +1,8 @@
 {
-  "name": "safe-math",
+  "name": "safe-calc",
   "version": "0.0.4",
   "description": "safe math operators to avoid NaN",
-  "main": "dist/safe-numbers.js",
+  "main": "dist/safe-calc.js",
   "scripts": {
     "start": "webpack --mode development",
     "build": "webpack --mode production",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NateRadebaugh/safe-math.git"
+    "url": "git+https://github.com/NateRadebaugh/safe-calc.git"
   },
   "author": "Nate Radebaugh <nate.radebaugh@outlook.com> (http://naterad.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/NateRadebaugh/safe-math/issues"
+    "url": "https://github.com/NateRadebaugh/safe-calc/issues"
   },
-  "homepage": "https://github.com/NateRadebaugh/safe-math#readme",
+  "homepage": "https://github.com/NateRadebaugh/safe-calc#readme",
   "devDependencies": {
     "clean-webpack-plugin": "^0.1.19",
     "webpack": "^4.11.1",
