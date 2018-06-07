@@ -1,6 +1,6 @@
 {
   "name": "safe-math",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "safe math operators to avoid NaN",
   "main": "dist/safe-numbers.js",
   "scripts": {
