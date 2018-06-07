@@ -1,0 +1,19 @@
+{
+  "name": "safe-math",
+  "version": "0.0.1",
+  "description": "safe math operators to avoid NaN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NateRadebaugh/safe-math.git"
+  },
+  "author": "Nate Radebaugh <nate.radebaugh@outlook.com> (http://naterad.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NateRadebaugh/safe-math/issues"
+  },
+  "homepage": "https://github.com/NateRadebaugh/safe-math#readme"
+}
