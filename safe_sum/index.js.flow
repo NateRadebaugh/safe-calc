@@ -1,0 +1,6 @@
+// @flow
+
+declare module.exports: (
+  left: string | number,
+  right: string | number
+) => number
