@@ -1,4 +1,4 @@
-var safeNumber = require("../safe_numberber/index.js")
+var safeNumber = require("../safe_number/index.js")
 
 /**
  * @category Safe Calculations
