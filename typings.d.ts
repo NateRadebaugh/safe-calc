@@ -38,7 +38,7 @@ declare module "safe-calc/safe_multiply/index.js" {
   export = safeMultiply;
 }
 
-declare module "safe-calc/safe_number/index.js" {
+declare module "safe-calc/safe_numberber/index.js" {
   import { safeNumber } from "safe-calc";
   export = safeNumber;
 }
